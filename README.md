@@ -10,7 +10,7 @@
 
 **Full docs and live demo:** [https://trendsmcp.ai/npm-trends](https://trendsmcp.ai/npm-trends)
 
-Part of **[Trends MCP](https://trendsmcp.ai)** -- the MCP server for live trend data across 12+ sources.
+Part of **[Trends MCP](https://trendsmcp.ai)** - the MCP server for live trend data across 12+ sources.
 See the main repo: [https://github.com/trendsmcp/trends-mcp](https://github.com/trendsmcp/trends-mcp)
 
 ---
@@ -98,7 +98,7 @@ Weekly download counts for any npm package, normalized to a 0-100 scale, plus ra
 
 ### How do I query a specific package?
 
-Use the exact npm package name -- for example 'react', 'lodash', 'express', or '@anthropic-ai/sdk'. Scoped packages use the @org/package format.
+Use the exact npm package name - for example 'react', 'lodash', 'express', or '@anthropic-ai/sdk'. Scoped packages use the @org/package format.
 
 ### Can I compare multiple packages?
 
@@ -127,7 +127,7 @@ Browse all: [https://trendsmcp.ai/data-sources](https://trendsmcp.ai/data-source
 
 ## Also works as a Python client
 
-Same API key works directly in Python — no MCP host needed.
+Same API key works directly in Python - no MCP host needed.
 
 ```bash
 pip install npm-trends-mcp
